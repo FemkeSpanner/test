@@ -67,21 +67,210 @@
   {
     "naam": "SSDLC Design",
     "kleur": "#388DCD",
-    "activiteiten": []
+    "activiteiten": [
+  {
+    naam: "HBO-I Ontwerpen",
+    vaardigheden: [
+      {
+        naam: "Functioneel Ontwerp",
+        vaardigheden: [
+          {
+            naam: "User Stories",
+            vaardigheden: [
+              { naam: "Opstellen van gebruikersverhalen" },
+              { naam: "Functionele vereisten specificeren" },
+              { naam: "Acceptatiecriteria definiëren" },
+            ],
+          },
+          {
+            naam: "Use Case Modellering",
+            vaardigheden: [
+              { naam: "Use Case diagrammen maken" },
+              { naam: "Actors identificeren" },
+              { naam: "Use Case scenarios opstellen" },
+            ],
+          },
+          {
+            naam: "Wireframing",
+            vaardigheden: [
+              { naam: "Schetsen van gebruikersinterfaces" },
+              { naam: "Interactieontwerp" },
+              { naam: "Prototype-ontwikkeling" },
+            ],
+          },
+        ],
+      },
+      {
+        naam: "Technisch Ontwerp",
+        vaardigheden: [
+          {
+            naam: "C4 Model",
+            vaardigheden: [
+              { naam: "Context diagrammen maken" },
+              { naam: "Container diagrammen opstellen" },
+              { naam: "Component- en klassendiagrammen ontwerpen" },
+            ],
+          },
+          {
+            naam: "UML Modellering",
+            vaardigheden: [
+              { naam: "Klassendiagrammen maken" },
+              { naam: "Sequentiediagrammen opstellen" },
+              { naam: "Activiteitendiagrammen ontwikkelen" },
+            ],
+          },
+          {
+            naam: "Threat Modeling",
+            vaardigheden: [
+              { naam: "Identificeren van bedreigingen" },
+              { naam: "Risicoanalyse uitvoeren" },
+              { naam: "Beveiligingsmaatregelen ontwerpen" },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+]
   },
   {
     "naam": "SSDLC Development",
     "kleur": "#E14398",
-    "activiteiten": []
+    "activiteiten":  [
+  {
+    naam: "HBO-I Realiseren",
+    vaardigheden: [
+      {
+        naam: "Softwareontwikkeling",
+        vaardigheden: [
+          { naam: "Programmeren" },
+          { naam: "Code review" },
+          { naam: "Implementeren van ontwerppatronen" },
+        ],
+      },
+      {
+        naam: "Testgedreven ontwikkeling",
+        vaardigheden: [
+          { naam: "Schrijven van unit tests" },
+          { naam: "Testautomatisering" },
+          { naam: "Continuous Integration (CI)" },
+        ],
+      },
+      {
+        naam: "Versiebeheer",
+        vaardigheden: [
+          { naam: "Git gebruiken" },
+          { naam: "Branchingstrategieën" },
+          { naam: "Merge conflict resolution" },
+        ],
+      },
+    ],
+  },
+]
   },
   {
     "naam": "SSDLC Testing",
     "kleur": "#ECA54B",
-    "activiteiten": []
+    "activiteiten": [
+  {
+    naam: "HBO-I Realiseren",
+    vaardigheden: [
+      {
+        naam: "Applicatie testen",
+        vaardigheden: [
+          {
+            naam: "Test voorbereiden",
+            vaardigheden: [
+              { naam: "Test applicatie opzetten" },
+              { naam: "Test packages installeren" },
+              { naam: "Testen in CI opzetten" },
+              { naam: "Test strategie bepalen" },
+            ],
+          },
+          {
+            naam: "Testbewijs ontwikkelen",
+            vaardigheden: [
+              { naam: "Test cases bepalen" },
+              { naam: "Test anatomie opzetten" },
+              { naam: "Testbaarheid functionaliteit bepalen" },
+            ],
+          },
+          {
+            naam: "Test evaluren",
+            vaardigheden: [
+              { naam: "Test resultaat analyseren" },
+              { naam: "Resterend risico bepalen" },
+              { naam: "Code review" },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+]
   },
   {
     "naam": "SSDLC Deployment",
     "kleur": "#EF733F",
-    "activiteiten": []
+    "activiteiten": [
+  {
+    naam: "HBO-I Manage en Control",
+    vaardigheden: [
+      {
+        naam: "Release Management",
+        vaardigheden: [
+          { naam: "Releaseplanning opstellen" },
+          { naam: "Versiebeheer" },
+          { naam: "Deployment coördineren" },
+        ],
+      },
+      {
+        naam: "Change Management",
+        vaardigheden: [
+          { naam: "Veranderingen beheren en controleren" },
+          { naam: "Impactanalyses uitvoeren" },
+          { naam: "Communicatie en stakeholdermanagement" },
+        ],
+      },
+      {
+        naam: "Kwaliteitsborging",
+        vaardigheden: [
+          { naam: "Testplanning en coördinatie" },
+          { naam: "Kwaliteitscontroles uitvoeren" },
+          { naam: "Rapportage en opvolging van kwaliteitsissues" },
+        ],
+      },
+    ],
+  },
+  {
+    naam: "HBO-I Realiseren",
+    vaardigheden: [
+      {
+        naam: "Deployment Automatisering",
+        vaardigheden: [
+          { naam: "Scripting voor deployment" },
+          { naam: "Gebruik van deploymenttools" },
+          { naam: "Continuous Deployment (CD)" },
+        ],
+      },
+      {
+        naam: "Omgevingsbeheer",
+        vaardigheden: [
+          { naam: "Configuratiebeheer" },
+          { naam: "Omgevingsmonitoring" },
+          { naam: "Troubleshooting en probleemoplossing" },
+        ],
+      },
+      {
+        naam: "Beveiliging en Compliance",
+        vaardigheden: [
+          { naam: "Security Best Practices implementeren" },
+          { naam: "Compliance controles uitvoeren" },
+          { naam: "Data Privacy Management" },
+        ],
+      },
+    ],
+  },
+]
   }
 ]
