@@ -1,27 +1,27 @@
 [
   {
-    naam: "SSDLC Requirements",
-    kleur: "#1ABFA1",
-    activiteiten: [],
+    "naam": "SSDLC Requirements",
+    "kleur": "#1ABFA1",
+    "activiteiten": []
   },
   {
-    naam: "SSDLC Design",
-    kleur: "#388DCD",
-    activiteiten: [],
+    "naam": "SSDLC Design",
+    "kleur": "#388DCD",
+    "activiteiten": []
   },
   {
-    naam: "SSDLC Development",
-    kleur: "#E14398",
-    activiteiten: [],
+    "naam": "SSDLC Development",
+    "kleur": "#E14398",
+    "activiteiten": []
   },
   {
-    naam: "SSDLC Testing",
-    kleur: "#ECA54B",
-    activiteiten:[],
+    "naam": "SSDLC Testing",
+    "kleur": "#ECA54B",
+    "activiteiten": []
   },
   {
-    naam: "SSDLC Deployment",
-    kleur: "#EF733F",
-    activiteiten: [],
-  },
+    "naam": "SSDLC Deployment",
+    "kleur": "#EF733F",
+    "activiteiten": []
+  }
 ]
