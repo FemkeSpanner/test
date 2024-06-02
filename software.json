@@ -78,43 +78,42 @@
     "naam": "SSDLC Testing",
     "kleur": "#ECA54B",
     "activiteiten": [
-  {
-    "naam": "HBO-I Realiseren",
-    "vaardigheden": [
       {
-        "naam": "Applicatie testen",
+        "naam": "HBO-I Realiseren",
         "vaardigheden": [
           {
-            "naam": "Test voorbereiden",
+            "naam": "Applicatie testen",
             "vaardigheden": [
-              { "naam": "Test applicatie opzetten" },
-              { "naam": "Test packages installeren" },
-              { "naam": "Testen in CI opzetten" },
-              { "naam": "Test strategie bepalen" }
-            ]
-          },
-          {
-            "naam": "Testbewijs ontwikkelen",
-            "vaardigheden": [
-              { "naam": "Test cases bepalen" },
-              { "naam": "Test anatomie opzetten" },
-              { "naam": "Testbaarheid functionaliteit bepalen" }
-            ]
-          },
-          {
-            "naam": "Test evalueren",
-            "vaardigheden": [
-              { "naam": "Test resultaat analyseren" },
-              { "naam": "Resterend risico bepalen" },
-              { "naam": "Code review" }
+              {
+                "naam": "Test voorbereiden",
+                "vaardigheden": [
+                  { "naam": "Test applicatie opzetten" },
+                  { "naam": "Test packages installeren" },
+                  { "naam": "Testen in CI opzetten" },
+                  { "naam": "Test strategie bepalen" }
+                ]
+              },
+              {
+                "naam": "Testbewijs ontwikkelen",
+                "vaardigheden": [
+                  { "naam": "Test cases bepalen" },
+                  { "naam": "Test anatomie opzetten" },
+                  { "naam": "Testbaarheid functionaliteit bepalen" }
+                ]
+              },
+              {
+                "naam": "Test evalueren",
+                "vaardigheden": [
+                  { "naam": "Test resultaat analyseren" },
+                  { "naam": "Resterend risico bepalen" },
+                  { "naam": "Code review" }
+                ]
+              }
             ]
           }
         ]
       }
     ]
-  }
-]
-
   },
   {
     "naam": "SSDLC Deployment",
