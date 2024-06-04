@@ -9,7 +9,10 @@
           {
             "naam": "Probleemanalyse",
             "vaardigheden": [
-              { "naam": "Requirements verzamelen", "link": "https://raw.githubusercontent.com/FemkeSpanner/test/main/software.json" },
+              {
+                "naam": "Requirements verzamelen",
+                "link": "https://raw.githubusercontent.com/FemkeSpanner/test/main/software.json"
+              },
               { "naam": "Huidige systeemanalyse" },
               { "naam": "Probleemidentificatie" },
               { "naam": "Stakeholderanalyse" }
