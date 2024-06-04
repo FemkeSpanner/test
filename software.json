@@ -136,6 +136,8 @@
     "kleur": "#E14398",
     "activiteiten": [
       {
+          "naam": "HBO-I Realiseren",
+        "vaardigheden": [
         "naam": "Softwareontwikkeling",
         "vaardigheden": [
           { "naam": "Programmeren" },
@@ -159,6 +161,7 @@
           { "naam": "Merge conflict resolution" }
         ]
       }
+    ]
     ]
   },
   {
